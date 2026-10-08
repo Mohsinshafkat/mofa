@@ -1,3 +1,0 @@
-git add .
-git commit -m "Add empty folders with .gitkeep"
-git push origin main
